@@ -9,4 +9,4 @@ Source code for a Movie Trailer website.
 - movies_info.csv: information about 4 movies that will be displayed in the website. This file is accessed by gen_movie_html.py
 - fresh_tomatoes.html: the html file for the movies website
 
-![Website Preview](https://github.com/ysriram1/)
+![Website Preview](ud036_StarterCode/website_screenshot.PNG)
