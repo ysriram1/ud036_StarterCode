@@ -1,7 +1,6 @@
-# ud036_StarterCode
-Source code for a Movie Trailer website.
+# Udacity Programming Fundamentals and the Web - Project 1 Solution
 
-# This repo contains the following files:
+## This repo contains the following files:
 
 - **freshtomatoes.py**: contains code provided by Udacity to generate a website
 - **media.py**: contains the Movie() class is used to generate a Movie object for each movie that will show up on the file. 
